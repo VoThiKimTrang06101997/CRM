@@ -12,6 +12,7 @@ Employee users often enter the project, assign work and view statistics on proje
 3. Employees: Users only have the right to view assigned tasks in each project, update assigned work progress, view progress statistics own projects.
 
 <space>** Features:</space>
+
 <space>+ For Admin:</space>
 1. Manage all members.
 2. Manage all workgroups.
@@ -40,13 +41,13 @@ Employee users often enter the project, assign work and view statistics on proje
 => Login.
 
 ![role list](https://user-images.githubusercontent.com/84017841/217074635-432ef8ba-ccc1-4455-9d5d-bd564d58d5d4.png)
-=> List of roles.
+=> List of Roles.
 
 ![task list](https://user-images.githubusercontent.com/84017841/217074637-05fdc9da-713b-43dc-9133-707fca9e075e.png)
-=> List of tasks.
+=> List of Tasks.
 
 ![member list](https://user-images.githubusercontent.com/84017841/217074631-111777be-ed1a-4de4-81ef-e6e204b9373d.png)
-=> List of memembers.
+=> List of Members.
 
 ![add new member](https://user-images.githubusercontent.com/84017841/217074605-95a7432f-f04a-4ccc-a26a-0c4cceaad00f.png)
 => Add new Member.
