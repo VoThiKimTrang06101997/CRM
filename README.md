@@ -1,4 +1,4 @@
-** Technology Used in the project Online Book Store.
+** Technology Used in this project:
 1. HTML: The page layout has been designed in HTML and JSP.
 2. CSS: CSS has been used for all complete style parts.
 3. JSP/Servlet: All the business and frontend logic has been implemented in.
